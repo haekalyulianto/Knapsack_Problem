@@ -1,4 +1,4 @@
-# KnapsackProblem
+# Knapsack Problem
 Knapsack Problem for Genetic Algorithm Class
 <br />
 <br />
