@@ -1,5 +1,5 @@
 # KnapsackProblem
-Knapsack problem from scratch for genetic algorithm class assignment
+Knapsack Problem for Genetic Algorithm Class
 <br />
 <br />
 # Author
